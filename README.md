@@ -1,6 +1,7 @@
 # AI Voice Agent System
 
 A comprehensive AI voice agent system built for truck driver calls with configuration management, real-time testing, and data extraction capabilities.
+![Project Screenshot](./image.png)
 
 ## 🏗️ Architecture Overview
 
