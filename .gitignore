@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+v/
+
+# Alembic cache (but keep migrations scripts)
+migrations/
+# Local environment files
+.env
+
+# Database backups or local db files
+*.sqlite3
+*.db
+backup.sql
+# Node / React
+node_modules/
+dist/
+build/
+.cache/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.pid
